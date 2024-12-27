@@ -47,7 +47,7 @@ Because you're tired of setting up the same stack for the 100th time. This templ
 5. Add a page:
 
    - Throw a new `.tsx` file in `src/pages`
-   - Magic! It's now a route. (Thanks, [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages))
+   - Magic! It's now a route, you can find it in "../#{your page .tsx name}". (Thanks, [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages))
 
 6. Build for production:
 
